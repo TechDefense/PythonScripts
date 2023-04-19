@@ -1,18 +1,20 @@
 # PythonScripts
-Some python Scripts
+A script that renmaes files in a directory.
 
 
 reNamer
 
-Open a command prompt or terminal window.
+Instructions:
 
-Navigate to the directory where the script is located using the cd command.
+    Open a command prompt or terminal window.
 
-Run the script by typing python reNamer.py and pressing Enter.
+    Navigate to the directory where the script is located using the cd command.
 
-The script will prompt you to enter the location of the folder containing the files you want to rename. 
+    Run the script by typing python reNamer.py and pressing Enter.
 
-Type the path of the folder and press Enter. Make sure you use forward slashes (/) or double backslashes (\) instead of single backslashes () when entering the path.
+    The script will prompt you to enter the location of the folder containing the files you want to rename. 
+
+    Type the path of the folder and press Enter. Make sure you use forward slashes (/) or double backslashes (\) instead of single backslashes () when entering the path.
 
 If the entered path is invalid, the script will give an "Error: Invalid source folder path" and exit.
 
