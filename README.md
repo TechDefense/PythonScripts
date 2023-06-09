@@ -36,13 +36,12 @@ After iterating through all files in the source folder, the script will print "F
 Note that this script only work for windows os, and it will create the destination folder if it does not exist before moving the files.
 
 
-Python Apps:
-#PhotoConverter - 
-This python app is intended to be run in the same directory as your Photos. (It will search through all subdirectories) and is capable of cross-conversion of the supported filetypes.
+# Python Apps:
 
-You will be prompted to select a original files format type, then for the desired format to convert to.
-
-#The app will search through all subdirectories and will not process duplicates so it can be runand re-run without creating nuisance files.
+# PhotoConverter 
+-This python app is intended to be run in the same directory as your Photos. (It will search through all subdirectories) and is capable of cross-conversion of the supported filetypes.
+-You will be prompted to select a original files format type, then for the desired format to convert to.
+-The app will search through all subdirectories and will not process duplicates so it can be runand re-run without creating nuisance files.
 
 Supported FileTypes (These are ones i've personally used, please feel free to ask for any you'd like supported.)
 
